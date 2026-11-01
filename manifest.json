@@ -6,6 +6,7 @@
     "overview": "Automatically resolves episode titles, air dates, synopses, creator profiles, and thumbnails for archived RArchivist media.",
     "owner": "covarianttensor",
     "category": "Metadata",
+    "imageUrl": "https://raw.githubusercontent.com/covarianttensor/jellyfin-plugins/main/images/thumb.png",
     "versions": [
       {
         "version": "1.0.0.0",
