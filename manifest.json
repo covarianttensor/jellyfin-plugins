@@ -1,0 +1,11 @@
+[
+  {
+    "guid": "382fecad-e381-4369-a344-e16e4cae2e98",
+    "name": "RArchivist",
+    "description": "Metadata provider and chronological episode indexer for media archived by RArchivist.",
+    "overview": "Automatically resolves episode titles, air dates, synopses, creator profiles, and thumbnails for archived RArchivist media.",
+    "owner": "covarianttensor",
+    "category": "Metadata",
+    "versions": []
+  }
+]
