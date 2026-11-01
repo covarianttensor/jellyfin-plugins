@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/covarianttensor/jellyfin-plugins/main/images/thumb.png",
     "versions": [
       {
+        "version": "1.0.1.0",
+        "changelog": "Release v1.0.1",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/covarianttensor/jellyfin-plugins/main/releases/rarchivist/Jellyfin.Plugin.RArchivist-v1.0.1.zip",
+        "checksum": "effe79fc6087745fd18a11f192a2ef6c",
+        "timestamp": "2026-11-01T21:56:45Z"
+      },
+      {
         "version": "1.0.0.0",
         "changelog": "Release v1.0.0",
         "targetAbi": "10.11.0.0",
