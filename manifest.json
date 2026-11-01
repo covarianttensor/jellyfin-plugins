@@ -1,28 +1,28 @@
 [
   {
-    "guid": "382fecad-e381-4369-a344-e16e4cae2e98",
+    "guid": "278022c2-f14a-49a7-ac46-94720578a31c",
     "name": "RArchivist",
     "description": "Metadata provider and chronological episode indexer for media archived by RArchivist.",
     "overview": "Automatically resolves episode titles, air dates, synopses, creator profiles, and thumbnails for archived RArchivist media.",
     "owner": "covarianttensor",
-    "category": "Metadata",
+    "category": "MoviesAndShows",
     "imageUrl": "https://raw.githubusercontent.com/covarianttensor/jellyfin-plugins/main/images/thumb.png",
     "versions": [
       {
-        "version": "1.0.1.0",
-        "changelog": "Release v1.0.1",
-        "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://raw.githubusercontent.com/covarianttensor/jellyfin-plugins/main/releases/rarchivist/Jellyfin.Plugin.RArchivist-v1.0.1.zip",
-        "checksum": "effe79fc6087745fd18a11f192a2ef6c",
-        "timestamp": "2026-11-01T21:56:45Z"
+        "version": "1.0.2.0",
+        "changelog": "Release v1.0.2 (Jellyfin 12.x)",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/covarianttensor/jellyfin-plugins/main/releases/rarchivist/Jellyfin.Plugin.RArchivist-v1.0.2.zip",
+        "checksum": "72045471142c86db59fe0f761fdab94a",
+        "timestamp": "2026-11-01T22:05:00Z"
       },
       {
-        "version": "1.0.0.0",
-        "changelog": "Release v1.0.0",
+        "version": "1.0.2.0",
+        "changelog": "Release v1.0.2 (Jellyfin 10.x)",
         "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://raw.githubusercontent.com/covarianttensor/jellyfin-plugins/main/releases/rarchivist/Jellyfin.Plugin.RArchivist-v1.0.0.zip",
-        "checksum": "4577bdddf51fc7ef34f93ff08717ef11",
-        "timestamp": "2026-11-01T19:48:27Z"
+        "sourceUrl": "https://raw.githubusercontent.com/covarianttensor/jellyfin-plugins/main/releases/rarchivist/Jellyfin.Plugin.RArchivist-v1.0.2.zip",
+        "checksum": "72045471142c86db59fe0f761fdab94a",
+        "timestamp": "2026-11-01T22:05:00Z"
       }
     ]
   }
